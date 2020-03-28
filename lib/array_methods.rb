@@ -5,6 +5,8 @@ array.length.times do |i|
   else
     return nil
   end 
+
+ end 
 end
 
 def find_max_value(array)
