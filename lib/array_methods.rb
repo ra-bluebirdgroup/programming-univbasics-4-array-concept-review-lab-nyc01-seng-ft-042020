@@ -10,7 +10,7 @@ array.length.times do |i|
 end
 
 def find_max_value(array)
-  # Add your solution here
+  array.fetch(array.length)
 end
 
 def find_min_value(array)
