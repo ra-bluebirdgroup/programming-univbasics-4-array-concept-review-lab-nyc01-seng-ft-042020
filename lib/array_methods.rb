@@ -4,7 +4,7 @@ array.length.times do |i|
     return i
   else
     return nil
-  end 
+  end
 
  end 
 end
