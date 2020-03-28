@@ -3,7 +3,8 @@ array.length.times do |i|
   if array.include?(value_to_find)
     return i
   else
-    return nil 
+    return nil
+  end 
 end
 
 def find_max_value(array)
